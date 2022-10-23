@@ -358,7 +358,7 @@
                             <div class="input-control">
                                 <textarea name="" id="" cols="15" rows="8" placeholder="Message Here..."></textarea>
                             </div>
-                            <div class="submit">
+                            <div class="submit-btn">
                                 <a href="" class="main-btn">
                                 <span class="btn-text" name="submit">Send</span>
                                 <button type="submit" name="submit" class="btn-icon"><i class="far fa-envelope-open"></i></button> 
