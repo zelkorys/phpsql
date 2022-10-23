@@ -360,8 +360,8 @@
                             </div>
                             <div class="submit-btn">
                                 <a href="" class="main-btn">
-                                    <button class="btn-text" type="submit">Send</span>
-                                    <span class="btn-icon"><i class="	far fa-envelope-open"></i></span>  
+                                <span class="btn-text" name="submit">Send</span>
+                                <button type="submit" name="submit" class="btn-icon"><i class="fas fa-home"></i></button> 
                                 </a>
                             </div>
                         </form>
