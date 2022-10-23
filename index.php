@@ -361,7 +361,7 @@
                             <div class="submit-btn">
                                 <a href="" class="main-btn">
                                 <span class="btn-text" name="submit">Send</span>
-                                <button type="submit" name="submit" class="btn-icon"><i class="fas fa-home"></i></button> 
+                                <button type="submit" name="submit" class="btn-icon"><i class="far fa-envelope-open"></i></button> 
                                 </a>
                             </div>
                         </form>
