@@ -8,7 +8,7 @@ if(isset($_POST['submit'])){
     $message = $_POST['message'];
 
     //SEND MAIL
-    mail('zelkorys@gmail.com' $subject $message);
+    $mailTo = 'zelkorys@gmail.com';
     $header = "From :" .$email;
     $content = "Subject :" .$subject."\n".$message;
 
